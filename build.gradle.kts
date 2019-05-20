@@ -9,21 +9,25 @@
 plugins {
     // Apply the scala plugin to add support for Scala
     scala
+    idea
 }
 
 repositories {
     // Use jcenter for resolving your dependencies.
     // You can declare any Maven/Ivy/file repository here.
     jcenter()
+    maven { url = uri("https://jitpack.io") }
 }
 
 dependencies {
     // Use Scala 2.12 in our library project
     implementation("org.scala-lang:scala-library:2.12.8")
+    implementation("org.apache.spark:spark-sql_2.12:2.4.3")
 
     // Use Scalatest for testing our library
     testImplementation("junit:junit:4.12")
     testImplementation("org.scalatest:scalatest_2.12:3.0.5")
+    testImplementation("com.github.mrpowers:spark-fast-tests:v0.16.0")
 
     // Need scala-xml at test runtime
     testRuntimeOnly("org.scala-lang.modules:scala-xml_2.12:1.1.1")
