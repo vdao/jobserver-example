@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Dropbox/Coursera/Functional program design/calculator" value="1465300146000" />
+        <entry key="$USER_HOME$/Dropbox/Coursera/Functional program design/quickcheck" value="1464277370000" />
+        <entry key="$USER_HOME$/Dropbox/Coursera/Functional program design/streams" value="1481008942000" />
+        <entry key="$USER_HOME$/Dropbox/Coursera/Scala Concurrent/barneshut" value="1475654230000" />
+        <entry key="$USER_HOME$/Dropbox/Coursera/Scala Concurrent/kmeans" value="1465227434000" />
+        <entry key="$USER_HOME$/Dropbox/Coursera/Scala Concurrent/reductions" value="1465226482000" />
+        <entry key="$USER_HOME$/Dropbox/Coursera/Scala Concurrent/scalashop" value="1465225094000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
