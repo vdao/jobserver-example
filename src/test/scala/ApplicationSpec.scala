@@ -1,8 +1,11 @@
 import com.github.mrpowers.spark.fast.tests.DataFrameComparer
 import org.apache.spark.sql.Row
 import org.apache.spark.sql.types.{StringType, StructField, StructType}
+import org.junit.runner.RunWith
 import org.scalatest.FunSpec
+import org.scalatest.junit.JUnitRunner
 
+@RunWith(classOf[JUnitRunner])
 class ApplicationSpec extends FunSpec
   with DataFrameComparer
   with SparkSessionTestWrapper {
