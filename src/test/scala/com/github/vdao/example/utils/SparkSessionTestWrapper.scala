@@ -1,7 +1,8 @@
+package com.github.vdao.example.utils
+
 import org.apache.spark.sql.SparkSession
 
 trait SparkSessionTestWrapper {
-
 
   lazy val spark: SparkSession = {
     SparkSession

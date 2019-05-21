@@ -1,4 +1,5 @@
 import com.github.mrpowers.spark.fast.tests.DataFrameComparer
+import com.github.vdao.example.utils.SparkSessionTestWrapper
 import org.apache.spark.sql.Row
 import org.apache.spark.sql.types.{StringType, StructField, StructType}
 import org.junit.runner.RunWith
