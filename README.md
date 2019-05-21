@@ -77,6 +77,8 @@ root
  |-- movie_impression: long (nullable = true)
 ```
 
+
+
 conversion_id|event_type|       impression_id|movie|user_id|movie_impression|       conversion_id|       impression_id|movie_impression
 -------------|----------|--------------------|-----|-------|----------------|--------------------|--------------------|----------------
          null|impression|67d38186-bb30-463...| null|      1|               2|                null|                null|            null
