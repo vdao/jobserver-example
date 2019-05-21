@@ -61,3 +61,27 @@ impression|67d38186-bb30-463...|                null| null|      1|             
 impression|67d38186-bb30-463...|                null| null|      1|               5
 impression|67d38186-bb30-463...|                null| null|      1|               6
 conversion|                null|3a8818a1-947f-48e...|    1|   null|            null
+
+### join impressions and conversions
+
+```
+root
+ |-- conversion_id: string (nullable = true)
+ |-- event_type: string (nullable = true)
+ |-- impression_id: string (nullable = true)
+ |-- movie: long (nullable = true)
+ |-- user_id: long (nullable = true)
+ |-- movie_impression: long (nullable = true)
+ |-- conversion_id: string (nullable = true)
+ |-- impression_id: string (nullable = true)
+ |-- movie_impression: long (nullable = true)
+```
+
+conversion_id|event_type|       impression_id|movie|user_id|movie_impression|       conversion_id|       impression_id|movie_impression
+-------------|----------|--------------------|-----|-------|----------------|--------------------|--------------------|----------------
+         null|impression|67d38186-bb30-463...| null|      1|               2|                null|                null|            null
+         null|impression|67d38186-bb30-463...| null|      1|               6|                null|                null|            null
+         null|impression|67d38186-bb30-463...| null|      1|               5|                null|                null|            null
+         null|impression|67d38186-bb30-463...| null|      1|               3|                null|                null|            null
+         null|impression|67d38186-bb30-463...| null|      1|               1|d42d75c6-07ca-4d5...|67d38186-bb30-463...|               1
+         null|impression|67d38186-bb30-463...| null|      1|               4|                null|                null|            null

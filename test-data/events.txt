@@ -1,28 +1,28 @@
-{"event_type": "impression", "id": "67d38186-bb30-463d-82e6-ee636dfa7c57", "user_id": 1, "movies": [1,2,3,4,5,6]}
-{"event_type": "impression", "id": "a759596a-ae4b-4610-ae4b-c97d2212eba5", "user_id": 2, "movies": [1,2,3,4,5,6]}
-{"event_type": "impression", "id": "46b4d266-eb19-4d9b-bdee-14a32afaba1c", "user_id": 3, "movies": [1,2,3,4,5,6]}
-{"event_type": "impression", "id": "5ada269e-d1ef-47b9-b7a6-eca4d3156273", "user_id": 4, "movies": [1,2,3,4,5,6]}
-{"event_type": "impression", "id": "3a8818a1-947f-48e9-ac8e-b3217919adca", "user_id": 5, "movies": [1,2,3,4,5,6]}
-{"event_type": "impression", "id": "fae7d5ff-118a-4e3c-8302-1a04f1aff8ce", "user_id": 6, "movies": [1,2,3,4,5,6]}
-{"event_type": "impression", "id": "30f5b38e-ff00-4eba-8955-73d1dfb75259", "user_id": 7, "movies": [1,2,3,4,5,6]}
-{"event_type": "impression", "id": "bad942ba-991b-4deb-bcfe-d63d15357701", "user_id": 8, "movies": [1,2,3,4,5,6]}
-{"event_type": "impression", "id": "c60cca7a-ba23-4b83-9c37-d597fdf07e30", "user_id": 9, "movies": [1,2,3,4,5,6]}
-{"event_type": "impression", "id": "2e45d4e8-79ba-4e2e-ae6e-6aed3f787532", "user_id": 10, "movies": [1,2,3,4,5,6]}
-{"event_type": "impression", "id": "d955d25c-00f6-4975-9e39-4cf65ec8cd97", "user_id": 11, "movies": [1,2,3,4,5,6]}
-{"event_type": "impression", "id": "91095659-73c6-4d92-90dc-34f70cf820f5", "user_id": 12, "movies": [1,2,3,4,5,6]}
-{"event_type": "impression", "id": "c6dd60aa-5f2f-4977-b650-70f7455f4698", "user_id": 13, "movies": [1,2,3,4,5,6]}
-{"event_type": "impression", "id": "f8e9abf5-23b4-43ed-a598-bf2c610da6de", "user_id": 14, "movies": [1,2,3,4,5,6]}
-{"event_type": "impression", "id": "2f91fd16-6318-4d88-a99c-9749bf3d9de9", "user_id": 15, "movies": [1,2,3,4,5,6]}
-{"event_type": "impression", "id": "cd1f2e9f-8e2b-42ff-911b-05da2ee52c51", "user_id": 16, "movies": [1,2,3,4,5,6]}
-{"event_type": "conversion", "impression_id": "3a8818a1-947f-48e9-ac8e-b3217919adca", "movie": 1}
-{"event_type": "conversion", "impression_id": "3a8818a1-947f-48e9-ac8e-b3217919adca", "movie": 2}
-{"event_type": "conversion", "impression_id": "3a8818a1-947f-48e9-ac8e-b3217919adca", "movie": 3}
-{"event_type": "conversion", "impression_id": "c6dd60aa-5f2f-4977-b650-70f7455f4698", "movie": 1}
-{"event_type": "conversion", "impression_id": "c6dd60aa-5f2f-4977-b650-70f7455f4698", "movie": 2}
-{"event_type": "conversion", "impression_id": "c6dd60aa-5f2f-4977-b650-70f7455f4698", "movie": 4}
-{"event_type": "conversion", "impression_id": "f8e9abf5-23b4-43ed-a598-bf2c610da6de", "movie": 3}
-{"event_type": "conversion", "impression_id": "f8e9abf5-23b4-43ed-a598-bf2c610da6de", "movie": 4}
-{"event_type": "conversion", "impression_id": "f8e9abf5-23b4-43ed-a598-bf2c610da6de", "movie": 6}
-{"event_type": "conversion", "impression_id": "bad942ba-991b-4deb-bcfe-d63d15357701", "movie": 4}
-{"event_type": "conversion", "impression_id": "bad942ba-991b-4deb-bcfe-d63d15357701", "movie": 5}
-{"event_type": "conversion", "impression_id": "bad942ba-991b-4deb-bcfe-d63d15357701", "movie": 6}
+{"event_type": "impression", "impression_id": "67d38186-bb30-463d-82e6-ee636dfa7c57", "user_id": 1, "movies": [1,2,3,4,5,6]}
+{"event_type": "impression", "impression_id": "a759596a-ae4b-4610-ae4b-c97d2212eba5", "user_id": 2, "movies": [1,2,3,4,5,6]}
+{"event_type": "impression", "impression_id": "46b4d266-eb19-4d9b-bdee-14a32afaba1c", "user_id": 3, "movies": [1,2,3,4,5,6]}
+{"event_type": "impression", "impression_id": "5ada269e-d1ef-47b9-b7a6-eca4d3156273", "user_id": 4, "movies": [1,2,3,4,5,6]}
+{"event_type": "impression", "impression_id": "3a8818a1-947f-48e9-ac8e-b3217919adca", "user_id": 5, "movies": [1,2,3,4,5,6]}
+{"event_type": "impression", "impression_id": "fae7d5ff-118a-4e3c-8302-1a04f1aff8ce", "user_id": 6, "movies": [1,2,3,4,5,6]}
+{"event_type": "impression", "impression_id": "30f5b38e-ff00-4eba-8955-73d1dfb75259", "user_id": 7, "movies": [1,2,3,4,5,6]}
+{"event_type": "impression", "impression_id": "bad942ba-991b-4deb-bcfe-d63d15357701", "user_id": 8, "movies": [1,2,3,4,5,6]}
+{"event_type": "impression", "impression_id": "c60cca7a-ba23-4b83-9c37-d597fdf07e30", "user_id": 9, "movies": [1,2,3,4,5,6]}
+{"event_type": "impression", "impression_id": "2e45d4e8-79ba-4e2e-ae6e-6aed3f787532", "user_id": 10, "movies": [1,2,3,4,5,6]}
+{"event_type": "impression", "impression_id": "d955d25c-00f6-4975-9e39-4cf65ec8cd97", "user_id": 11, "movies": [1,2,3,4,5,6]}
+{"event_type": "impression", "impression_id": "91095659-73c6-4d92-90dc-34f70cf820f5", "user_id": 12, "movies": [1,2,3,4,5,6]}
+{"event_type": "impression", "impression_id": "c6dd60aa-5f2f-4977-b650-70f7455f4698", "user_id": 13, "movies": [1,2,3,4,5,6]}
+{"event_type": "impression", "impression_id": "f8e9abf5-23b4-43ed-a598-bf2c610da6de", "user_id": 14, "movies": [1,2,3,4,5,6]}
+{"event_type": "impression", "impression_id": "2f91fd16-6318-4d88-a99c-9749bf3d9de9", "user_id": 15, "movies": [1,2,3,4,5,6]}
+{"event_type": "impression", "impression_id": "cd1f2e9f-8e2b-42ff-911b-05da2ee52c51", "user_id": 16, "movies": [1,2,3,4,5,6]}
+{"event_type": "conversion", "impression_id": "3a8818a1-947f-48e9-ac8e-b3217919adca", "movie": 1, "conversion_id": "ac63513a-70ea-472d-8909-e0d2c1d77ccf"}
+{"event_type": "conversion", "impression_id": "3a8818a1-947f-48e9-ac8e-b3217919adca", "movie": 2, "conversion_id": "fc9cf792-9d50-4804-8c04-b6d5f072c2ae"}
+{"event_type": "conversion", "impression_id": "3a8818a1-947f-48e9-ac8e-b3217919adca", "movie": 3, "conversion_id": "c74a06c5-6adb-408e-9037-2f95f8e80270"}
+{"event_type": "conversion", "impression_id": "c6dd60aa-5f2f-4977-b650-70f7455f4698", "movie": 1, "conversion_id": "b7ab1b5b-dadb-4e22-8eb5-b21b3f1f1b07"}
+{"event_type": "conversion", "impression_id": "c6dd60aa-5f2f-4977-b650-70f7455f4698", "movie": 2, "conversion_id": "be5843cd-492b-41ee-bc1a-f20c85cb0259"}
+{"event_type": "conversion", "impression_id": "c6dd60aa-5f2f-4977-b650-70f7455f4698", "movie": 4, "conversion_id": "d42d75c6-07ca-4d5c-bf71-89e08443c023"}
+{"event_type": "conversion", "impression_id": "f8e9abf5-23b4-43ed-a598-bf2c610da6de", "movie": 3, "conversion_id": "ac2d39d9-07c1-41d6-8775-2f8af06c0417"}
+{"event_type": "conversion", "impression_id": "f8e9abf5-23b4-43ed-a598-bf2c610da6de", "movie": 4, "conversion_id": "e5318cf8-d006-4e32-a1f3-fd2acf9346cf"}
+{"event_type": "conversion", "impression_id": "f8e9abf5-23b4-43ed-a598-bf2c610da6de", "movie": 6, "conversion_id": "bb4ba88f-b93f-4624-97e0-cd48ee7eaba9"}
+{"event_type": "conversion", "impression_id": "bad942ba-991b-4deb-bcfe-d63d15357701", "movie": 4, "conversion_id": "4d650e19-3ed2-4ea2-b4f7-5ab12a1dbcd2"}
+{"event_type": "conversion", "impression_id": "bad942ba-991b-4deb-bcfe-d63d15357701", "movie": 5, "conversion_id": "184b2250-54da-44fd-99ba-6bfa1ad9ee59"}
+{"event_type": "conversion", "impression_id": "bad942ba-991b-4deb-bcfe-d63d15357701", "movie": 6, "conversion_id": "53664fac-5ab0-435a-98e2-2bcd8fd41c78"}
