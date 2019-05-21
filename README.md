@@ -40,3 +40,24 @@ conversion|                null|bad942ba-991b-4de...|    5|              null|  
 conversion|                null|bad942ba-991b-4de...|    6|              null|   null
 
 
+### explode column
+
+```
+root
+ |-- event_type: string (nullable = true)
+ |-- id: string (nullable = true)
+ |-- impression_id: string (nullable = true)
+ |-- movie: long (nullable = true)
+ |-- user_id: long (nullable = true)
+ |-- movie_impression: long (nullable = true)
+```
+
+event_type|                  id|       impression_id|movie|user_id|movie_impression
+----------|--------------------|--------------------|-----|-------|----------------
+impression|67d38186-bb30-463...|                null| null|      1|               1
+impression|67d38186-bb30-463...|                null| null|      1|               2
+impression|67d38186-bb30-463...|                null| null|      1|               3
+impression|67d38186-bb30-463...|                null| null|      1|               4
+impression|67d38186-bb30-463...|                null| null|      1|               5
+impression|67d38186-bb30-463...|                null| null|      1|               6
+conversion|                null|3a8818a1-947f-48e...|    1|   null|            null
